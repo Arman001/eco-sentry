@@ -2,7 +2,7 @@
 
 EcoSentry is an open-source initiative dedicated to the preservation and protection of our forests. Using advanced AI and satellite imagery, EcoSentry monitors and safeguards trees against illegal logging and deforestation.
 
-***
+
 
 ## Features
 
@@ -11,7 +11,7 @@ EcoSentry is an open-source initiative dedicated to the preservation and protect
 - **Real-time Updates**: Provides real-time updates on forest health and changes.
 - **User Reporting**: Empowers users to report illegal logging incidents with location details and images.
 - **Open Collaboration**: Welcomes contributions from developers worldwide to enhance the platform's capabilities.
-***
+
 
 ## Installation
 
@@ -29,11 +29,11 @@ EcoSentry is an open-source initiative dedicated to the preservation and protect
 
    ```bash
    git clone https://github.com/Arman001/eco-sentry.git
-***
+
 ## License
 EcoSentry is open-source software licensed under the MIT License.
-***
+
 ## Contact
 For questions or feedback, please reach out to us at muhammad.saad.ar@gmail.com.
-***
+
    
